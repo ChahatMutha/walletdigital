@@ -45,7 +45,7 @@ Welcome to the **Digital Wallet App**, your next-gen solution for managing digit
 git clone https://github.com/mayurrajput04/walletdigital
 
 # Navigate into the directory
-cd digital-wallet-app
+cd walletdigital
 
 # Get dependencies
 flutter pub get
